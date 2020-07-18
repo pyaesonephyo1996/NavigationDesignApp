@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/db"
+        android:icon="@drawable/ic_db"
+        android:title="Database" />
+    <item
+        android:id="@+id/contact"
+        android:icon="@drawable/ic_con"
+        android:title="Contact" />
+    <item
+        android:id="@+id/phone"
+        android:icon="@drawable/ic_phone"
+        android:title="Phone" />
+    <item
+        android:id="@+id/email"
+        android:icon="@drawable/ic_email"
+        android:title="Email" />
+    <item
+        android:id="@+id/address"
+        android:icon="@drawable/ic_address"
+        android:title="Address" />
+    <item
+        android:id="@+id/photo"
+        android:icon="@drawable/ic_photo"
+        android:title="Photo" />
+</menu>

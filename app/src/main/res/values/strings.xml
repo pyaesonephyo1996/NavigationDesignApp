@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">NavigationDesignApp</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="pyaesonephyo">PyaeSonePhyo</string>
+    <string name="email">pyaesonephyo@gmail.com</string>
+</resources>
